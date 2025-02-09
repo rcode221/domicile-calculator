@@ -1,4 +1,3 @@
-pip install -r requirements.txt
 streamlit run streamlit_app.py
 import streamlit as st # type: ignore
 
